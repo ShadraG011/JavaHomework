@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Homework_6 {
     public static void main(String[] args) {
         Infrastructure infrastructure = new Infrastructure();
-        System.out.println(infrastructure.getAllInfo(1));
+            System.out.println(infrastructure.getAllInfo(1));
         System.out.println(infrastructure.getAllInfo(2));
         System.out.println(infrastructure.getAllInfo(3));
         System.out.println(infrastructure.getAllInfo(4));
